@@ -1,11 +1,11 @@
-consistency_analysis - Consistency Analysis for GSM
-===================================================
+Consistency Analysis for GSM
+============================
 
 
 What is consistency_analysis?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Consistency Analysis is a Python 3 package tha implemnts
+Consistency Analysis is a Python 3 package that implements
 constraint-based modeling methods to perform gap analysis 
 in genome-scale metabolic models of any organism.
 
