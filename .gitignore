@@ -96,3 +96,5 @@ venv/
 .benchmarks/
 glpk-4.*
 /.testmondata
+
+.idea/
