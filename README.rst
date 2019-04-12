@@ -1,5 +1,5 @@
-consistency_analysis - Consistency Analysis is a Python 3
-=========================================================
+consistency_analysis - Consistency Analysis for GSM
+===================================================
 
 
 What is consistency_analysis?
